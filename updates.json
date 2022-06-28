@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/xtwist/proxyrequest-releases/releases/download/v1.0.0-win",
-    "install": "https://github.com/xtwist/proxyrequest-releases/releases/download/v1.0.0-win/proxyrequest-1.0.0.exe",
-    "version": "1.0.0"
+    "update": "https://github.com/xtwist/proxyrequest-releases/releases/download/v1.0.1-win",
+    "install": "https://github.com/xtwist/proxyrequest-releases/releases/download/v1.0.0-win/proxyrequest-1.0.1.exe",
+    "version": "1.0.1"
   },
   "darwin-arm64-prod": {
     "update": "https://raw.githubusercontent.com/xtwist/proxyrequest-releases/main/release.json",
